@@ -18,7 +18,7 @@
   "author": "SmallStoneSK",
   "license": "MIT",
   "dependencies": {
-    "@rn-components-kit/icon": "^1.0.1",
+    "@rn-components-kit/icon": "^1.0.4",
     "@rn-components-kit/text": "^1.0.0"
   }
 }
